@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://komarev.com/ghpvc/?username=Gauravkashyap043 ">
 </a>
 
-<h1 align="left">Hi 👋 I'm Gaurav Kahyap</h1>
+<h1 align="left">Hi 👋 I'm Gaurav Kashyap</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
 <p align="center">
