@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](Link)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-gaurav-kashyap.netlify.app/)
 
 - 📫 How to reach me **Kashyapgaurav460@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IC9l-JPvYPWPGBWc2iqryLWvhkMOrx-J/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ENBmBYkE4Mpa8mdjssaU6sW_RGAEb7ds/view?usp=sharing)
 
 - ⚡ Fun fact **I am a PhotoGrapher**
     <hr/>
